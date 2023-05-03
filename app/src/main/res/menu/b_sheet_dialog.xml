@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Download File"
+        android:icon="@drawable/baseline_cloud_download_24"/>
+    <item android:title="Share"
+        android:icon="@drawable/baseline_share_24"/>
+    <item android:title="Upload to Google Drive"
+        android:icon="@drawable/baseline_drive_folder_upload_24"/>
+    <item android:title="Copy link"
+        android:icon="@drawable/baseline_file_copy_24"/>
+    <item android:title="Delete file selection"
+        android:icon="@drawable/baseline_delete_24"/>
+</menu>
